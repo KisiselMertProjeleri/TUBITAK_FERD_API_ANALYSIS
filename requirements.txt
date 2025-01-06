@@ -1,0 +1,7 @@
+pandas
+fredapi
+numpy
+plotly
+matplotlib
+time
+seaborn
